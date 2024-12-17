@@ -1,0 +1,9 @@
+{
+  "name": "budget-tracker",
+  "version": "0.1.0",
+  "homepage": "https://kaizenita.github.io/Budget-Tracker",
+  "private": true,
+  "dependencies": {
+    // ... altre dipendenze
+  }
+}
